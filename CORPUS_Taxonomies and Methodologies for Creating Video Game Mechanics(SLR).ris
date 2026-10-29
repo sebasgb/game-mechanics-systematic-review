@@ -1,0 +1,1544 @@
+TY  - JOUR
+TI  - Pybliometrics: Scriptable bibliometrics using a Python interface to Scopus
+AU  - Rose, Michael E.
+AU  - Kitchin, John R.
+T2  - SoftwareX
+AB  - We present a wrapper for the Scopus RESTful API written for Python 3. The wrapper allows users to access the Scopus database via user-friendly interfaces and can be used without prior knowledge of RESTful APIs. The package provides classes to interact with different Scopus APIs to retrieve information as diverse as citation counts, author information or document abstracts. Files are cached to speed up subsequent analysis. The package addresses all users of Scopus data, such as researchers working in Science of Science or evaluators. It facilitates reproducibility of research projects and enhances data integrity for researchers using Scopus data.
+DA  - 2019/07//
+PY  - 2019
+DO  - 10.1016/j.softx.2019.100263
+DP  - DOI.org (Crossref)
+VL  - 10
+SP  - 100263
+J2  - SoftwareX
+LA  - en
+SN  - 23527110
+ST  - pybliometrics
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2352711019300573
+Y2  - 2026/06/07/21:21:33
+ER  - 
+
+TY  - JOUR
+TI  - Software engineering research for computer games: A systematic review
+AU  - Ampatzoglou, Apostolos
+AU  - Stamelos, Ioannis
+T2  - Information and Software Technology
+AB  - Objective: This study aims to assess the state of the art on research concerning software engineering for computer games and discuss possible important areas for future research.
+Method: We employed a standard methodology for systematic literature reviews using four well known digital libraries.
+Results: Software engineering for computer games is a research domain that has doubled its research activity during the last 5 years. The dominant research topic has proven to be requirements engineering, while topics such as software veriﬁcation and maintenance have been neglected up to now.
+Conclusion: The results of the study suggest that software engineering for computer games is a ﬁeld that embraces many techniques and methods from conventional software engineering and adapts them so as to ﬁt the speciﬁc requirements of game development. In addition to that, the study proposes the employment of more elaborate empirical methods, i.e. controlled experiments and case studies, in game software engineering research, which, have not been extensively used up to now.
+DA  - 2010/09/01/
+PY  - 2010
+DO  - 10.1016/j.infsof.2010.05.004
+DP  - DOI.org (Crossref)
+VL  - 52
+IS  - 9
+SP  - 888
+EP  - 901
+J2  - Information and Software Technology
+LA  - en
+SN  - 09505849
+ST  - Software engineering research for computer games
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0950584910000820
+Y2  - 2022/06/12/13:21:05
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - JOUR
+TI  - Implementing game requirements using design patterns
+AU  - Paschali, Maria‐Eleni
+AU  - Volioti, Christina
+AU  - Ampatzoglou, Apostolos
+AU  - Gkagkas, Anastasios
+AU  - Stamelos, Ioannis
+AU  - Chatzigeorgiou, Alexander
+T2  - Journal of Software: Evolution and Process
+DA  - 2021/11/03/
+PY  - 2021
+DO  - 10.1002/smr.2399
+DP  - DOI.org (Crossref)
+VL  - 33
+IS  - 12
+SP  - e2399
+J2  - J Softw Evol Proc
+LA  - en
+PB  - John Wiley & Sons
+SN  - 2047-7473, 2047-7481
+UR  - https://onlinelibrary.wiley.com/doi/10.1002/smr.2399
+Y2  - 2022/06/27/01:56:01
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - CONF
+TI  - Implementing Game Mechanics with GoF Design Patterns
+AU  - Kounoukla, Xeni-Christina
+AU  - Ampatzoglou, Apostolos
+AU  - Anagnostopoulos, Konstantinos
+T2  - PCI '16: 20th Pan-Hellenic Conference on Informatics
+AB  - Implementing game mechanics (i.e., game rules and logic) inherently involves high volumes of required complexity, which in turn leads to the introduction of accidental complexity (e.g., long methods, code repetition, etc.). Thus, usually games suffer from poor quality, i.e., attributes such as maintainability and flexibility are weakened. A possible solution for this shortcoming is the reuse of well-known software engineering practices, such as GoF patterns. GoF are not the only patterns that are applicable in game development: game mechanics represent recurring problems in game design and accompanying solutions. However, these patterns are rather abstract and no guidance on their implementation is provided. The aim of this study is to introduce basic instantiations of game mechanics with GoF patterns, which can potentially increase their usability in practice. To this end, nine mappings were identified and a case study on OSS games was performed to explore the applicability of the approach. Combining these two types of patterns is expected to provide various benefits: (a) the game mechanics will be accompanied with sample implementations that can be reused, to act as a starting point for source code development; (b) these implementations will obey to good design principles—therefore their maintainability will be safeguarded; and (c) the fact that game mechanics are recurring, guarantees the applicability of the proposed implementations in various games.
+C1  - Patras, Greece
+C3  - Proceedings of the 20th Pan-Hellenic Conference on Informatics
+DA  - 2016/11/10/
+PY  - 2016
+DO  - 10.1145/3003733.3003779
+DP  - DOI.org (Crossref)
+SP  - 1
+EP  - 4
+LA  - en
+PB  - ACM
+SN  - 978-1-4503-4789-1
+UR  - https://dl.acm.org/doi/10.1145/3003733.3003779
+Y2  - 2024/10/03/17:00:48
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - RPRT
+TI  - Procedures for Performing Systematic Reviews
+AU  - Kitchenham, Barbara
+CY  - Keele, Staffordshire, United Kingdom
+DA  - 2004/07//
+PY  - 2004
+DP  - Zotero
+SP  - 33
+LA  - en
+M3  - Technical Report
+PB  - Keele University
+SN  - TR/SE-0401
+L1  - https://www.inf.ufsc.br/~aldo.vw/kitchenham.pdf
+KW  - Leído
+ER  - 
+
+TY  - CONF
+TI  - The Game Genre Map: A Revised Game Classification
+AU  - Heintz, Stephanie
+AU  - Law, Effie Lai-Chong
+T2  - CHI PLAY 2015
+T3  - CHI PLAY '15
+AB  - The existing common video game genres lack clarity as well as consistency and thus cannot serve as a solid reference to inform the research on digital educational games (DEG), which are increasingly used as learning tools. To address this basic issue of game classification, we have developed a web-based survey to collect data on how people play and perceive video games that they know well. The survey is grounded in our Game Elements-Attributes Model (GEAM). 321 valid responses were analysed using established hierarchical clustering methods and a novel mapping technique that computes the degree of relevance of individual game attributes to game types and visualises them with hues of grey. The game genre map so obtained can improve the existing game classification.
+C1  - London, United Kingdom
+C3  - Proceedings of the 2015 Annual Symposium on Computer-Human Interaction in Play
+DA  - 2015/10/05/
+PY  - 2015
+DO  - 10.1145/2793107.2793123
+DP  - ACM Digital Library
+SP  - 175
+EP  - 184
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-3466-2
+ST  - The Game Genre Map
+UR  - https://doi.org/10.1145/2793107.2793123
+Y2  - 2022/04/27/
+L1  - https://dl.acm.org/doi/pdf/10.1145/2793107.2793123
+KW  - digital games
+KW  - game genre
+KW  - hierarchical clustering
+KW  - mapping
+KW  - Leído
+ER  - 
+
+TY  - JOUR
+TI  - Why Video Game Genres Fail: A Classificatory Analysis
+AU  - Clarke, Rachel Ivy
+AU  - Lee, Jin Ha
+AU  - Clark, Neils
+T2  - Games and Culture
+AB  - This article explores the current affordances and limitations of video game genre from a library and information science perspective with an emphasis on classification theory. We identify and discuss various purposes of genre relating to video games, including identity, collocation and retrieval, commercial marketing, and educational instruction. Through the use of examples, we discuss the ways in which these purposes are supported by genre classification and conceptualization and the implications for video games. Suggestions for improved conceptualizations such as family resemblances, prototype theory, faceted classification, and appeal factors for video game genres are considered, with discussions of strengths and weaknesses. This analysis helps inform potential future practical applications for describing video games at cultural heritage institutions such as libraries, museums, and archives, as well as furthering the understanding of video game genre and genre classification for game studies at large.
+DA  - 2017/07/06/
+PY  - 2017
+DO  - 10.1177/1555412015591900
+DP  - DOI.org (Crossref)
+VL  - 12
+IS  - 5
+SP  - 445
+EP  - 465
+J2  - Games and Culture
+LA  - en
+PB  - SAGE Publications
+SN  - 1555-4120, 1555-4139
+ST  - Why Video Game Genres Fail
+UR  - http://journals.sagepub.com/doi/10.1177/1555412015591900
+Y2  - 2022/07/19/16:01:17
+KW  - Leído
+ER  - 
+
+TY  - BOOK
+TI  - The aesthetic of play
+AU  - Upton, Brian
+CN  - GV1201.37 .U77 2015
+CY  - Cambridge, Massachusetts, United States
+DA  - 2015/03/06/
+PY  - 2015
+DP  - Library of Congress ISBN
+SP  - 324
+LA  - en
+PB  - The MIT Press
+SN  - 978-0-262-02851-6
+KW  - Games
+KW  - Psychological aspects
+KW  - Play
+KW  - Rules Psychological aspects
+KW  - Leído
+ER  - 
+
+TY  - JOUR
+TI  - The Relative Popularity of Video Game Genres in the Scientific Literature: A Bibliographic Survey
+AU  - Swacha, Jakub
+T2  - Multimodal Technologies and Interaction
+AB  - Video games come in many genres. Although the popularity of games that belong to different genres is the subject of various research and industry reports, so far, there have been no studies investigating their popularity in research papers. This paper addresses this gap with an analysis of bibliographic data sourced from Scopus, spanning 45 years since the emergence of the topic till today and covering nine widely recognized genres: Action, Puzzle, Rhythm, Role-Playing, Simulation, Sports, Shooter, Strategy, and Traditional. The obtained results not only reveal the current popularity of these video game genres but also illustrate its change over time and geographic distribution as well as highlight the most impactful papers referring to the respective genres and their topics, providing a number of footholds for future studies, including regarding the identified disparities in the research interest in some genres and the number of available games belonging to them, the fluctuations in the relative popularity of the respective genres, and the disparities in the share of research output dedicated to video game genres in the total research output of different countries.
+DA  - 2025/06/11/
+PY  - 2025
+DO  - 10.3390/mti9060059
+DP  - DOI.org (Crossref)
+VL  - 9
+IS  - 6
+SP  - 59
+J2  - MTI
+LA  - en
+PB  - MDPI
+SN  - 2414-4088
+ST  - The Relative Popularity of Video Game Genres in the Scientific Literature
+UR  - https://www.mdpi.com/2414-4088/9/6/59
+Y2  - 2026/06/03/21:16:03
+KW  - Leído
+ER  - 
+
+TY  - JOUR
+TI  - Game development software engineering process life cycle: a systematic review
+AU  - Aleem, Saiqa
+AU  - Capretz, Luiz Fernando
+AU  - Ahmed, Faheem
+T2  - Journal of Software Engineering Research and Development
+AB  - Software game is a kind of application that is used not only for entertainment, but also for serious purposes that can be applicable to different domains such as education, business, and health care. Multidisciplinary nature of the game development processes that combine sound, art, control systems, artificial intelligence (AI), and human factors, makes the software game development practice different from traditional software development. However, the underline software engineering techniques help game development to achieve maintainability, flexibility, lower effort and cost, and better design. The purpose of this study is to assesses the state of the art research on the game development software engineering process and highlight areas that need further consideration by researchers. In the study, we used a systematic literature review methodology based on well-known digital libraries. The largest number of studies have been reported in the production phase of the game development software engineering process life cycle, followed by the pre-production phase. By contrast, the post-production phase has received much less research activity than the pre-production and production phases. The results of this study suggest that the game development software engineering process has many aspects that need further attention from researchers; that especially includes the postproduction phase.
+DA  - 2016/11/09/
+PY  - 2016
+DO  - 10.1186/s40411-016-0032-7
+VL  - 4
+IS  - 1
+SP  - 1
+EP  - 30
+PB  - Springer Open
+SE  - 6
+KW  - Leído
+ER  - 
+
+TY  - JOUR
+TI  - Rulebook: An Architectural Pattern for Self-Amending Mechanics in Digital Games
+AU  - Mizutani, Wilson Kazuo
+AU  - Kon, Fabio
+T2  - IEEE Transactions on Games
+AB  - Mechanics are one of the pillars of gameplay, enabled by the underlying implementation of the game and subject to constant changes during development. In particular, self-amending mechanics adjust themselves dynamically and are a common source of coupled code. The Rulebook is an architectural pattern that generalizes how developers prevent coupled code in self-amending mechanics, based on a careful research process including a systematic literature review, semistructured interviews with professional developers, and quasiexperiments. The pattern codifies changes to the game state as “effect” objects, which it matches against a dynamic pool of rules. Each rule may amend, resolve, or chain effects. By preventing the control flow of the game from becoming coupled to the specific interactions of mechanics while also promoting an extensible and flexible structure for self-amendment, our solution reduces the time developers need to iterate on the design of mechanics. This paper details the Rulebook pattern and presents a case study demonstrating its design process in three different implementations of open-source jam games. Together with the typification of self-amending mechanics, this article formalizes a novel, state-of-the-art toolset for architecting games.
+CY  - United States
+DA  - 2024/09//
+PY  - 2024
+DO  - 10.1109/TG.2024.3359439
+DP  - DOI.org (Crossref)
+VL  - 16
+IS  - 3
+SP  - 711
+EP  - 721
+J2  - IEEE Trans. Games
+LA  - en
+PB  - IEEE
+SN  - 2475-1502, 2475-1510
+ST  - <i>Rulebook</i>
+UR  - https://ieeexplore.ieee.org/document/10415520/
+Y2  - 2026/05/28/18:29:47
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CONF
+TI  - Exploring Aesthetic Ideals of Gameplay
+AU  - Lundgren, Sus
+AU  - Bergström, Karl J.
+AU  - Björk, Staffan
+T2  - DiGRA 2009
+AB  - This paper describes a theoretical exploration of aesthetics ideals of gameplay. Starting from observations about the game artifact, several gameplay properties that can affect the aesthetical experience are identified, e.g. tempting challenges, cohesion, and gamer interaction. These properties are then used to describe several aesthetical ideals of gameplay, e.g. emergence, reenactment, meditative, and camaraderie. The properties and ideals provide concepts for how games attribute aesthetical value to gameplay design and how they distinguish their own preferences from inherent qualities of a game artifact.
+C1  - London, United Kingdom
+C3  - Proceedings of DiGRA 2009 Conference: Breaking New Ground: Innovation in Games, Play, Practice and Theory
+DA  - 2009/09//
+PY  - 2009
+DO  - 10.26503/dl.v2009i1.392
+DP  - Zotero
+LA  - en
+PB  - DiGRA
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CONF
+TI  - Where Do Game Design Ideas Come From? Invention and Recycling in Games Developed in Sweden
+AU  - Hagen, Ulf
+T2  - DiGRA 2009 International Conference
+AB  - The game industry is often accused for not being original and inventive enough, making sequels and transmediations instead of creating new game concepts and genres. Idea creation in game development has not been studied much by scholars. This paper explores the origin of game design ideas, with the purpose of creating a classification of the domains the ideas are drawn from. Design ideas in 25 games, developed by the four main game developers in Sweden, have been collected mainly through interviews with the designers and through artifact analyses of the games. A grounded theory approach was then used to develop categories “bottom-up” from the collected data. This resulted in four main categories and a number of sub categories, describing different domains that game design ideas are drawn from. The analysis of the game design ideas also showed that all games consist of a recycled part and an inventive part, and that the ideas in the recycled part mainly come from domains that are closely related to games. This indicates that games perhaps would be more inventive if design ideas were drawn from more distant domains.
+C1  - Tampere, Finland
+C3  - Proceedings of the 2009 DiGRA International Conference: Breaking New Ground: Innovation in Games, Play, Practice and Theory.
+DA  - 2009/09/01/
+PY  - 2009
+DO  - 10.26503/dl.v2009i1.459
+DP  - DOI.org (Crossref)
+LA  - en
+PB  - DiGRA
+ST  - Where Do Game Design Ideas Come From?
+UR  - https://dl.digra.org/index.php/dl/article/view/459
+Y2  - 2026/05/27/16:53:09
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - BOOK
+TI  - Creating Games: Mechanics, Content, and Technology
+AU  - McGuire, Morgan
+AU  - Jenkins, Odest Chadwicke
+CY  - Boca Raton, Florida, United States
+DA  - 2008/12/22/
+PY  - 2008
+DO  - 10.1201/b10678
+DP  - DOI.org (Crossref)
+SP  - 500
+LA  - en
+PB  - A K Peters/CRC Press
+SN  - 978-1-4398-6592-7
+UR  - https://www.taylorfrancis.com/books/9781439865927
+Y2  - 2026/05/27/13:01:26
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - BOOK
+TI  - Fundamentals of game design
+AU  - Adams, Ernest
+AB  - Now in its third edition, the classic book on game design has been completely revised to include the latest developments in the game industry. Readers will learn all the fundamentals of concept development, gameplay design, core mechanics, user interfaces, storytelling, and balancing. They’ll be introduced to designing for mobile devices and touch screens, as well as for the Kinect and motion-capture gameplay. They’ll learn how indie developers are pushing the envelope and how new business models such as free-to-play are influencing design. In an easy-to-follow approach, Adams offers a first-hand look into the process of designing a game, from initial concept to final tuning. This in-depth resource also comes with engaging end-of-chapter exercises, design worksheets, and case studies
+CY  - Berkeley, California, United States
+DA  - 2013/12/17/
+PY  - 2013
+DP  - K10plus ISBN
+ET  - Third edition
+SP  - 863
+LA  - eng
+PB  - New Riders
+SN  - 978-0-321-92967-9 978-0-13-343570-2
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CONF
+TI  - Game Design Patterns
+AU  - Björk, Staffan
+AU  - Lundgren, Sus
+AU  - Holopainen, Jussi
+T2  - DiGRA 2003
+C1  - Utrecht, Netherlands
+C3  - Proceedings of DiGRA 2003 Conference: Level Up
+DA  - 2003/01//
+PY  - 2003
+DO  - 10.26503/dl.v2003i1.60
+DP  - DOI.org (Crossref)
+PB  - DiGRA
+UR  - https://dl.digra.org/index.php/dl/article/view/60
+Y2  - 2026/05/27/13:13:05
+L1  - https://dl.digra.org/index.php/dl/article/download/60/60
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CONF
+TI  - Classification of Game Mechanics: A Brief Review
+AU  - Ali, Nurwathiqah
+AU  - Tajuddin, Sharul
+AU  - Bramantoro, Arif
+T2  - International Conference on Advanced Computational Science and Engineering
+AB  - Game mechanics play a crucial role in determining a video game's overall success. In this paper, we examine the literature regarding the use of game mechanics, specifically the type of mechanics and their effect on people, and develop a classification of the different types of game mechanics with the use of classification theory. Classification is fundamental to encourage the use of a standardized set of game mechanics as it can aid developers in comprehending and producing games that accommodate various user preferences. Additionally, the paper further identified the types of game mechanics under each of the classifications to demonstrate a better understanding. The result of this review provides a categorization of the different types of mechanics and their subcategories based on their common features. Based on the findings, game mechanics are classified into six categories: core, meta, feedback, social, narrative, and aesthetic. Therefore, this paper can contribute to the development of a taxonomy that organizes mechanics into meaningful categories providing structured understanding in identifying similarities, differences, and relationships between mechanics.
+C1  - Singapore
+C3  - Proceedings of the 4th International Conference on Advances in Computational Science and Engineering
+DA  - 2024///
+PY  - 2024
+DO  - 10.1007/978-981-97-2977-7_19
+DP  - DOI.org (Crossref)
+VL  - 1199
+SP  - 313
+EP  - 329
+LA  - en
+PB  - Springer Nature Singapore
+SN  - 978-981-97-2976-0 978-981-97-2977-7
+ST  - Classification of Game Mechanics
+UR  - https://link.springer.com/10.1007/978-981-97-2977-7_19
+Y2  - 2026/05/18/20:02:56
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - JOUR
+TI  - A formal approach to spatio-temporal modeling of game systems
+AU  - Kugurakova, Venera V.
+T2  - Uchenye Zapiski Kazanskogo Universiteta. Seriya Fiziko-Matematicheskie Nauki
+AB  - This article introduces FAST-GM (Formal Approach to Spatio-Temporal Game Modeling), a new unified approach to formal modeling of game entities and their interactions that integrates temporal and probabilistic dimensions, thus offering a comprehensive framework for capturing the dynamics of game systems. Built upon the principles of extended temporal logic and probability theory, FAST-GM accurately describes complex game mechanics and how they evolve. A formal definition of game entities was considered. Their states and interactions were explored. The methods for integrating temporal and probabilistic elements into gameplay were discussed. The applicability of FAST-GM for game balancing, formal verification of game scenarios, and automated generation of test cases was analyzed. Its scalability and adaptability in various game genres were assessed. The results obtained show that FAST-GM should advance the formal modeling of game systems, equipping developers with a powerful toolset for analysis, verification, and optimization of game mechanics throughout the process of creating a video game.
+CY  - Kazan, Russia
+DA  - 2024/12/22/
+PY  - 2024
+DO  - 10.26907/2541-7746.2024.4.532-554
+DP  - DOI.org (Crossref)
+VL  - 166
+IS  - 4
+SP  - 532
+EP  - 554
+LA  - ru
+PB  - Kazan Federal University
+SN  - 2500-2198, 2541-7746
+UR  - https://uzakufismat.elpub.ru/jour/article/view/130
+Y2  - 2026/05/18/20:02:54
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - CONF
+TI  - Prototyping to Discover: How Mechanics Emerge from Error and Iteration
+AU  - Carranza, David Bonilla
+AU  - Negrón, Adriana Peña Pérez
+T2  - CIMPS 2025
+C1  - Lima, Peru
+C3  - Proceedings of the 2025 14th International Conference on Software Process Improvement
+DA  - 2025/10/15/
+PY  - 2025
+DO  - 10.1109/CIMPS69356.2025.11419701
+DP  - DOI.org (Crossref)
+SP  - 191
+EP  - 195
+LA  - es
+PB  - IEEE
+SN  - 979-8-3315-8048-3
+ST  - Prototyping to Discover
+UR  - https://ieeexplore.ieee.org/document/11419701/
+Y2  - 2026/05/18/20:02:52
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Game Mechanics for IP-Based Games: The IP-MDA Framework with a Case Study on the White Day Korean Horror IP
+AU  - Eom, Soyoun
+AU  - Moon, Chanuk
+AU  - Shim, Ahyeong
+AU  - Kang, Jooeun
+AU  - Lee, Jaejun
+T2  - FDG '25: International Conference on the Foundations of Digital Games
+AB  - This paper introduces the IP-MDA framework, a modified version of the Mechanics-Dynamics-Aesthetics (MDA) framework designed to facilitate the production of original games based on intellectual property (IP). By incorporating established transmedia world(TMW) elements such as mythos, ethos, and topos, the IP-MDA framework enhances traditional game design principles. Using the popular Korean horror game series White Day as a case study, we demonstrate how the IP-MDA framework can address the challenges of integrating external IP into game mechanics and dynamics, while preserving the aesthetic goals of the original work. Through several iterations, the framework was tested and validated to improve how game mechanics are shaped to reflect and leverage the underlying IP.
+C1  - Vienna, Austria
+C3  - Proceedings of the 20th International Conference on the Foundations of Digital Games
+DA  - 2025/05/09/
+PY  - 2025
+DO  - 10.1145/3723498.3723769
+DP  - DOI.org (Crossref)
+SP  - 1
+EP  - 5
+LA  - en
+PB  - ACM
+SN  - 979-8-4007-1856-4
+ST  - Enhancing Game Mechanics for IP-Based Games
+UR  - https://dl.acm.org/doi/10.1145/3723498.3723769
+Y2  - 2026/05/18/20:02:50
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Code Modularity and Game Mechanics in Modern Game Development
+AU  - Borada, Daksha
+AU  - Mishra, Reeta
+AU  - Tripathi, Padmesh
+T2  - IC3ECSBHI 2025
+AB  - In the modern era of technologies, game development encounters substantial challenges in warranting scalability, code modularity, and maintainability because of several issues like tight coupling, code duplication, and inconsistent architectures. Due to these problems, it becomes difficult to integrate new features, increase error rates, and lengthen development cycles. Further, adaptability is limited due to the inflexible codebases, which makes scalability difficult. These issues are resolved by design pattern methodologies which provide structured and reusable solutions for code organization. Patterns like Singleton, Observer, and Factory facilitate developers to create modular and adaptable codebases. These patterns are very helpful in reducing errors, supporting system scalability, and eliminating the necessity for wide rewrites. In this paper, the practical applications of design pattern in game development have been investigated. These patterns improve code flexibility, maintainability, and scalability. By employing these techniques, developers can increase productivity, rationalize workflows, and create strong, game architectures. It has been observed that design patterns work as indispensible tools in dealing the growing complications of modern game development, permitting teams to meet the growing demands of players preserving high standards of quality and performance.
+C1  - Greater Noida, Uttar Pradesh, India
+C3  - Proceedings of the 2025 International Conference on Cognitive Computing Engineering, Communication Science, Biomedical Health Informatics
+DA  - 2025/01/16/
+PY  - 2025
+DO  - 10.1109/IC3ECSBHI63591.2025.10991066
+DP  - DOI.org (Crossref)
+SP  - 1423
+EP  - 1427
+LA  - en
+PB  - IEEE
+SN  - 979-8-3315-1852-3
+UR  - https://ieeexplore.ieee.org/document/10991066/
+Y2  - 2026/05/18/20:02:47
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - CONF
+TI  - Design of Video Game Mechanics: A Systematic Literature Review
+AU  - Vázquez-Villa, Cristopher
+AU  - Ocharán-Hernández, Jorge Octavio
+AU  - Pérez-Arriaga, Juan Carlos
+AU  - Hernández-González, Lizbeth A.
+T2  - CONISOFT 2025
+AB  - Despite their central role in video games, research on design of game mechanics remains understudied and conceptually fragmented. This study reviews the current state of game mechanics design, identifying mechanics, design approaches, tools to assist design and trends. Through a Systematic Literature Review (SLR) of 39 studies published between 2019 and 2024, we identified that core and movement mechanics are regularly addressed, although inconsistencies in their conceptualization. Many design approaches emphasize player experience, but few offer formal frameworks. Design patterns are the dominant approach, while structured methodologies are rarely documented. Unity and MDA were the most cited tools. Only a few studies addressed broader trends, but some pointed to changes in player expectations and mobile development. The design of game mechanics remains an underexplored area in game development research.
+C1  - La Paz, Mexico
+C3  - Proceedings of the 2025 13th International Conference on Software Engineering Research and Innovation (CONISOFT)
+DA  - 2025/10/27/
+PY  - 2025
+DO  - 10.1109/CONISOFT66928.2025.00021
+DP  - DOI.org (Crossref)
+SP  - 81
+EP  - 90
+LA  - en
+PB  - IEEE
+SN  - 979-8-3315-6728-6
+ST  - Design of Video Game Mechanics
+UR  - https://ieeexplore.ieee.org/document/11369763/
+Y2  - 2026/05/18/20:02:45
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - CONF
+TI  - Exploring aesthetical gameplay design patterns: camaraderie in four games
+AU  - Bergström, Karl
+AU  - Björk, Staffan
+AU  - Lundgren, Sus
+T2  - MindTrek 2010
+AB  - This paper explores how a vocabulary supporting design-related discussions of gameplay preferences can be developed. Using the preference of experiencing camaraderie as an example, we have analyzed four games: the board games Space Alert and Battlestar Galactica, the massively multiplayer online game World of Warcraft, and the cooperative FPS series Left for Dead. Through a combination of the MDA model on how game mechanics give rise to game aesthetics via game dynamics, and the concept of aesthetic ideals in gameplay, we present gameplay design patterns related to achieving camaraderie. We argue that some of these patterns can be seen as aesthetic gameplay design patterns in that they are closely related to aesthetic ideals. Further, as a consequence, gameplay design pattern collections which include patterns related to all levels of the MDA model can be used as design tools when aiming for certain gameplay aesthetics.
+C1  - Tampere, Finland
+C3  - Proceedings of the 14th International Academic MindTrek Conference: Envisioning Future Media Environments
+DA  - 2010/10/06/
+PY  - 2010
+DO  - 10.1145/1930488.1930493
+DP  - Zotero
+SP  - 17
+EP  - 24
+LA  - en
+PB  - ACM
+UR  - https://doi.org/10.1145/1930488.1930493
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - CONF
+TI  - Design patterns applied for game design patterns
+AU  - Qu, Junfeng
+AU  - Song, Yinglei
+AU  - Wei, Yong
+T2  - SNPD 2016
+AB  - We analyzed common game design patterns such as enemy, weapon, communication, and creative control as well as social interaction and explored design patterns that are applicable to these game design patterns. The reusability, maintainability, and quality of game development are supposed to be improved and game development is able to adapt to constant changing and evolutionary game building process. Although some design patterns are discussed, other design patterns might suitable as well because game programming is too complicated to separate and apply each pattern independently.
+C1  - Shanghai, China
+C3  - Proceedings of the 17th IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing
+DA  - 2016/05/30/
+PY  - 2016
+DO  - 10.1109/snpd.2016.7515924
+SP  - 351
+EP  - 356
+PB  - IEEE
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - JOUR
+TI  - A gameplay definition through videogame classification
+AU  - Djaouti, Damien
+AU  - Alvarez, Julian
+AU  - Jessel, Jean-Pierre
+AU  - Methel, Gilles
+AU  - Molinier, Pierre
+T2  - International Journal of Computer Games Technology
+AB  - This paper is part of an experimental approach aimed to raise a videogames classification. Being inspired by the methodology that Propp used for the classification of Russian fairy tales, we have identified recurrent diagrams within rules of videogames, that we called "Gameplay Bricks". The combinations of these different bricks should allow us to represent a classification of all videogames in accordance with their rules. In this article, we will study the nature of these bricks, especially the link they seem to have with two types of game rules: the rules that allow the player to "manipulate" the elements of the game, and the rules defining the "goal" of the game. This study will lead to an hypothesis about the nature of gameplay.
+CY  - Manchester, UK
+DA  - 2008/04/22/
+PY  - 2008
+DO  - 10.1155/2008/470350
+VL  - 2008
+SP  - 4
+PB  - Hindawi
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - BOOK
+TI  - A Theory of Fun for Game Design
+AU  - Koster, Raph
+AB  - Now in full color, the 10th anniversary edition of this classic book takes you deep into the influences that underlie modern video games, and examines the elements they share with traditional games such as checkers. At the heart of his exploration, veteran game designer Raph Koster takes a close look at the concept of fun and why its the most vital element in any game. Why do some games become boring quickly, while others remain fun for years? How do games serve as fundamental and powerful learning tools? Whether youre a game developer, dedicated gamer, or curious observer, this illustrated, fully updated edition helps you understand what drives this major cultural force, and inspires you to take it further. Youll discover that: Games play into our innate ability to seek patterns and solve puzzles Most successful games are built upon the same elements Slightly more females than males now play games Many games still teach primitive survival skills Fictional dressing for modern games is more developed than the conceptual elements Truly creative designers seldom use other games for inspiration Games are beginning to evolve beyond their prehistoric origins
+CY  - Scottsdale, Arizona, United States
+DA  - 2004/11/06/
+PY  - 2004
+PB  - Paraglyph Press
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CONF
+TI  - MDA: A Formal Approach to Game Design and Game Research
+AU  - Hunicke, Robin
+AU  - LeBlanc, Marc
+AU  - Zubek, Robert
+T2  - AAAI Workshop on Challenges in Game AI
+AB  - In this paper we present the MDA framework (standing for Mechanics, Dynamics, and Aesthetics), developed and taught as part of the Game Design and Tuning Workshop at the Game Developers Conference, San Jose 2001-2004.
+C1  - San Jose, California, United States
+C3  - Proceedings of the AAAI Workshop on Challenges in Game AI
+DA  - 2004/06/20/
+PY  - 2004
+DP  - Zotero
+LA  - en
+PB  - AAAI Press
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - JOUR
+TI  - Redefining the MDA Framework - The Pursuit of a Game Design Ontology
+AU  - Junior, Rogério
+AU  - Silva, Frutuoso
+T2  - Information
+AB  - In computer science, an ontology is a way of showing the properties of a subject area and how they are related by defining a set of concepts and categories that represent the subject. There have been many attempts to create a widely accepted ontology for the universe of games. Most of these attempts are defined based on an analytical perspective: few have found frequent use outside universities, as they are not easily translated to the development of games, which is a design perspective. There are some core aspects of the domain that turn this task into a difficult goal to achieve. In addition, game designers tend to refuse a methodology or a structured way of developing a game; the main concern is that it can impair creativity in a field that could not survive without it. A defined ontology would improve and mature the growing industry of digital games, both by enhancing the understanding of the domain and by supporting a structured methodology for designing games. This paper describes the properties of digital games and shows how they make it difficult to create an ontology for that field of study, especially when it comes to a design perspective. It clarifies the closest approach to a unified ontology that there is for the game domain: the mechanics, dynamics and aesthetics framework (MDA). We propose the redefinition of MDA’s taxonomy, calling it Redefining the MDA (RMDA), providing better use for the approach from a designer’s perspective, embracing the design properties of the domain, and overcoming issues found in the literature of the game domain. The main purpose of this paper is to clarify the MDA framework by redefining its main components, mechanics, dynamics and aesthetics, as a way to make the tool more understandable and useful for game designers. Understanding aesthetics and how developers can invoke them by correctly defining mechanics and creating dynamics is the main focus of the paper. Thus, some examples are provided in order to explain the applicability of the RMDA as a methodology to produce games.
+DA  - 2021/09/26/
+PY  - 2021
+DO  - 10.3390/info12100395
+DP  - DOI.org (Crossref)
+VL  - 12
+IS  - 10
+SP  - 395
+J2  - Information
+LA  - en
+PB  - MDPI
+SN  - 2078-2489
+UR  - https://www.mdpi.com/2078-2489/12/10/395
+Y2  - 2022/06/27/01:56:01
+L1  - https://www.mdpi.com/2078-2489/12/10/395/pdf?version=1634724367
+L1  - https://www.mdpi.com/2078-2489/12/10/395/pdf?version=1634724367
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - BOOK
+TI  - Patterns in game design
+AU  - Björk, Staffan
+AU  - Holopainen, Jussi
+AB  - PART I BACKGROUND 1 Introduction 2 An Activity-Based Framework for Describing Games 3 Game Design Patterns PART II THE PATTERN 4 Using Design Patterns 5 Game Design Patterns for Game Elements 6 Game Design Patterns for Resource and Resource Management 7 Game Design Patterns for Information, Communication, and Presentation 8 Actions and Events Patterns 9 Game Design Patterns for Narrative Structures, Predictability, and Immersion Patterns 10 Game Design Patterns for Social Interaction 11 Game Design Patterns for Goals 12 Game Design Patterns for Goal Structures 13 Game Design Patterns for Game Sessions 14 Game Design Patterns for Game Mastery and Balancing 15 Game Design Patterns for Meta Games, Replayability, and Learning Curves
+CY  - Boston, Massachusetts, United States
+DA  - 2004/10/11/
+PY  - 2004
+PB  - Charles River Media
+SN  - 978-1-58450-354-5
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CONF
+TI  - Towards an Ontological Language for Game Analysis
+AU  - Zagal, José P.
+AU  - Mateas, Michael
+AU  - Fernández-Vara, Clara
+AU  - Hochhalter, Brian
+AU  - Lichti, Nolan
+T2  - DiGRA 2005: Changing Views – Worlds in Play
+AB  - The Game Ontology Project (GOP) is creating a framework for describing, analyzing and studying games, by defining a hierarchy of concepts abstracted from an analysis of many specific games. GOP borrows concepts and methods from prototype theory as well as grounded theory to achieve a framework that is always growing and changing as ne w games are analyzed or particular research questions are explored. The top level of the ontolo gy (interface, rules, goals, entities, and entity manipulation) is described as well as a part icular ontological entry. Finally, by engaging in three short discussions centered on relevant games studies research questions, the ontology’s utility is demonstrated.
+C1  - Vancouver, Canada
+C3  - Proceedings of DiGRA 2005 Conference: Changing Views: Worlds in Play
+DA  - 2005/01//
+PY  - 2005
+VL  - 3
+SP  - SI
+PB  - DiGRA
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CONF
+TI  - Describing Games - An Interaction-Centric Structural Framework
+AU  - Björk, Staffan
+AU  - Holopainen, Jussi
+T2  - DiGRA 2003
+AB  - We present a structural framework to describe games in terms of components. The components are divided into four major areas: meta-structure, bounding, narrative and objective. The framework is developed to be used in conjunction with game design patterns, descriptions of patterns of interaction relevant to game play. We describe the development of the framework and how it relates to patterns.
+C1  - Utrecht, Netherlands
+C3  - Proceedings of DiGRA 2003 Conference: Level Up
+DA  - 2003/01/01/
+PY  - 2003
+DO  - https://doi.org/10.26503/dl.v2003i1.87
+VL  - 2
+PB  - DiGRA
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - BOOK
+TI  - Rules of Play: Game Design Fundamentals
+AU  - Salen, Katie
+AU  - Zimmerman, Eric
+AB  - This text offers an introduction to game design and a unified model for looking at all kinds of games, from board games and sports to computer and video games. Also included are concepts, strategies, and methodologies for creating and understanding games.
+CY  - Cambridge, Massachusetts, United States
+DA  - 2003/09/25/
+PY  - 2003
+PB  - MIT Press
+SN  - 978-0-262-24045-1
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CONF
+TI  - Software Architectures and the Creative Processes in Game Development
+AU  - Wang, Alf Inge
+AU  - Nordmark, Niclas
+T2  - ICEC 2015
+A2  - Chorianopoulos, Konstantinos
+A2  - Divitini, Monica
+A2  - Baalsrud Hauge, Jannicke
+A2  - Jaccheri, Letizia
+A2  - Malaka, Rainer
+AB  - Game development is different from traditional software engineering in that there are no real functional requirements and the customers buy and use the software only because it is engaging and fun. This article investigates how game developers think about and use software architecture in the development of games. Further, it looks at how creative development processes are managed and supported. The results presented in this article come from responses to a questionnaire and a survey among thirteen game developers. The research questions answered in this study are: what role does the software architecture play in game development, how do game developers manage changes to the software architecture, how are creative development processes managed and supported, and how has game development evolved the last couple of years. Some of our findings are that software architectures play a central role in game development where the focus is mainly on achieving software with good performance and high modifiability, creative processes are supported through flexible game engines and tools, use of scripting and dynamic loading of assets, and feature-based teams with both creative and technical professions represented, and game developers are incrementally using more game-specific engines, tools and middleware in their development now compared to earlier.
+C1  - Cham, Switzerland
+C3  - Entertainment Computing – ICEC 2015
+DA  - 2015/12/01/
+PY  - 2015
+DO  - 10.1007/978-3-319-24589-8_21
+VL  - 9353
+SP  - 272
+EP  - 285
+PB  - Springer, Cham
+KW  - SNOWBALLED
+ER  - 
+
+TY  - JOUR
+TI  - Defining Game Mechanics
+AU  - Sicart, Miguel
+T2  - Game Studies
+DA  - 2008/12//
+PY  - 2008
+VL  - 8
+IS  - 2
+UR  - https://gamestudies.org/0802/articles/sicart
+Y2  - 2026/05/15/
+L2  - https://gamestudies.org/0802/articles/sicart
+L4  - https://gamestudies.org/0802/articles/sicart
+KW  - Rules
+KW  - Challenges.
+KW  - Game Mechanics
+KW  - Game Research
+KW  - Keywords
+Game Design
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - JOUR
+TI  - Evaluation of object-oriented design patterns in game development
+AU  - Ampatzoglou, Apostolos
+AU  - Chatzigeorgiou, Alexander
+T2  - Information & Software Technology
+AB  - The use of object-oriented design patterns in game development is being evaluated in this paper. Games' quick evolution, demands great flexibility, code reusability and low maintenance costs. Games usually differentiate between versions, in respect of changes of the same type (additional animation, terrains etc). Consequently, the application of design patterns in them can be beneficial regarding maintainability. In order to investigate the benefits of using design patterns, a qualitative and a quantitative evaluation of open source projects is being performed. For the quantitative evaluation, the projects are being analyzed by reverse engineering techniques and software metrics are calculated.
+CY  - Ámsterdam, Netherlands
+DA  - 2007/05//
+PY  - 2007
+DO  - 10.1016/j.infsof.2006.07.003
+VL  - 49
+IS  - 5
+SP  - 445
+EP  - 454
+PB  - Elsevier
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CONF
+TI  - Design patterns for games
+AU  - Nguyen, Dung
+AU  - Wong, Stephen B.
+T2  - SIGCSE '02
+AB  - Designing a two-person game involves identifying the game model to compute the best moves, the user interface (the "view") to play the game, and the controller to coordinate the model and the view. A crucial task is to represent the algorithms used in their highest abstract forms. This can prove to be a difficult and subtle endeavor. It is made easier however by the use of good object-oriented (OO) design principles to help maintain a high level abstract viewpoint during the design process. The state pattern is used to represent the game board and is coupled with the visitor pattern to provide state-dependent, variant behaviors. The min-max algorithm and its variants are implemented as the strategy pattern, which allows flexible and extensible computational capability. Careful analysis is performed to properly abstract the interactions between the model and the view. The command design pattern is used to provide callback services between the model and the view. Leading students through this design process enables them to learn algorithms and architectures that easily scale to full-sized applications.
+C1  - New York, NY, USA
+C3  - Proceedings of the 33rd SIGCSE Technical Symposium on Computer Science Education
+DA  - 2002/02/27/
+PY  - 2002
+DO  - 10.1145/563340.563387
+VL  - 34
+IS  - 1
+SP  - 126
+EP  - 130
+PB  - ACM
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CHAP
+TI  - Design, Dynamics, Experience (DDE): An Advancement of the MDA Framework for Game Design
+AU  - Walk, Wolfgang
+AU  - Görlich, Daniel
+AU  - Barrett, Mark
+AU  - Korn, Oliver
+AU  - Lee, Newton
+T2  - Game Dynamics: Best Practices in Procedural and Dynamic Game Content Generation
+AB  - Although the Mechanics, Dynamics and Aesthetics (MDA) framework is probably the most widely accepted and practically employed approach to game design, that framework has recently been criticized for several weaknesses. Other frameworks have been proposed to overcome those limitations, but none has generated sufficient support to replace MDA. In this chapter, we improve the MDA framework, place it on new pillars and thus present the Design, Dynamics, Experience (DDE) framework for the design of computer and video games.
+CY  - Cham, Suiza
+DA  - 2017/03/31/
+PY  - 2017
+DO  - 10.1007/978-3-319-53088-8_3
+SP  - 27
+EP  - 45
+PB  - Springer
+SN  - 978-3-319-53087-1
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CONF
+TI  - Collaboration versus competition: Design and evaluation of mechanics for games with a purpose.
+AU  - Siu, Kristin
+AU  - Zook, Alexander
+AU  - Riedl, Mark O.
+T2  - Foundations of Digital Games
+AB  - Games with a purpose (GWAPs) have proven to be effective solutions to solving difficult problems, labeling data, and collecting commonsense knowledge. Unlike traditional games, GWAPs must balance between acquiring accurate solutions or data and maintaining player engagement. However, when it comes to designing GWAPs, the effects of different game mechanics on accuracy and engagement are not well understood. We report on a study designed to investigate how scoring mechanisms based on principles of collaboration and competition impact the accuracy and engagement of players in commonsense knowledge collection tasks. Overall, we found that competition-based scoring mechanics generated data that was as accurate as more conventional collaborative scoring mechanics, but increased player engagement. Furthermore, when players were presented with both collaborative and competitive scoring options they performed worse due to the need to consider strategy. Our results suggest that different mechanics may be used with different players without loss of accuracy.
+C1  - Fort Lauderdale, Florida, United States
+C3  - Proceedings of the 9th International Conference on the Foundations of Digital Games
+DA  - 2014/04//
+PY  - 2014
+SP  - 266
+EP  - 273
+PB  - Society for the Advancement of the Science of Digital Games (SASDG)
+SN  - 978-0-9913982-0-1
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CONF
+TI  - The conceptual relationship model : understanding patterns and mechanics in game design
+AU  - Olsson, Carl Magnus
+AU  - Björk, Staffan
+AU  - Dahlskog, Steve
+T2  - DiGRA 2014
+AB  - Rooted in the complexity of purposeful design, this paper embraces a phenomenological perspective of design as both a process and artifact. We use this perspective to interpret why the conceptualization and realization of design intentions can be difficult to achieve and why design is often perceived as a so called ‘wicked problem’. This paper revisits the concepts of game design patterns and game mechanics, arguing that refactoring these concepts is needed to clarify their relationships and motivations. We outline the separation of concerns between them and suggest that an additional contextualizing layer should be added to the discourse. Using this, we define and reflect upon what we refer to as the conceptual relationship model.
+C1  - Salt Lake City, Utah, United States
+C3  - Proceedings of the 2014 DiGRA International Conference: "Choices, Chances, and Challenges"
+DA  - 2014/08//
+PY  - 2014
+DO  - 10.26503/dl.v2014i1.625
+PB  - DiGRA
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CHAP
+TI  - Requirements for a General Game Mechanics Framework
+AU  - Hofmann, Imre
+T2  - Games and Rules: Game Mechanics for the "Magic Circle"
+A2  - Suter, Beat
+A2  - Kocher, Mela
+A2  - Bauer, René
+CY  - Bielefeld, Germany
+DA  - 2018/03/18/
+PY  - 2018
+DO  - 10.14361/9783839443040-005
+SP  - 67
+EP  - 86
+PB  - transcript Verlag
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CONF
+TI  - The 6-11 Framework: a new approach to video game analysis and design
+AU  - Dillon, Roberto
+T2  - GAMEON Asia 2011
+AB  - This paper describes the "6-11 Framework", a new game analysis and design methodology defined to help game designers in the process of crafting emotionally engaging and, ultimately, "fun" experiences. The framework is contextualized in an existing and well known model, the MDA, and then explained through relevant examples and case studies.
+C1  - Singapore
+C3  - Proceedings of GAMEON Asia 2011
+DA  - 2011///
+PY  - 2011
+SP  - 25
+EP  - 29
+PB  - EUROSIS
+SN  - 978-90-77381-60-1
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CONF
+TI  - Gameplay and game mechanics: a key to quality in videogames
+AU  - Fabricatore, Carlo
+T2  - ENLACES (MINEDUC Chile)–OECD Expert Meeting on Videogames and Education
+AB  - What makes a good game? Marketing wisdom indicates that the success or failure of a product depends mainly on how well it satisfies customers’ preferences, needs and expectations. Consequently, knowing the player and his/her preferences is crucial to design successful digital games. Hence, the really important question is: what do players expect from a good game? When playing a game, players seek challenge, mastery and reward, all packed in entailing and motivating activities. From this stems the importance of gameplay as a crucial game design cornerstone, and game mechanics as tools that the player has to interact with in order to carry out gameplay activities. In this paper we analyze the relevance of gameplay and game mechanics from a player-centered perspective, and provide insights and guidelines to improve game design in order to sustain and enhance players’ motivation through gameplay.
+C1  - Santiago de Chile, Chile
+DA  - 2007/10/29/31
+PY  - 2007
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - ELEC
+TI  - The 400 Project
+AU  - Barwood, Hal
+T2  - Finite Arts
+DA  - 2006///
+PY  - 2006
+UR  - https://www.finitearts.com/Pages/400page.html
+Y2  - 2026/05/15/
+L2  - https://www.finitearts.com/Pages/400page.html
+KW  - SNOWBALLED
+ER  - 
+
+TY  - JOUR
+TI  - A typology of human computation games: an analysis and a review of current games
+AU  - Pe-Than, Ei Pa Pa
+AU  - Goh, Dion Hoe-Lian
+AU  - Lee, Chei Sian
+T2  - Behaviour & Information Technology
+AB  - Human computation games HCGs utilise human intelligence for the purpose of problem solving through games. Recently, HCGs have increased in popularity within various application areas. A proper system of describing such games is necessary in order to obtain a better understanding of the current body of work and identify new opportunities for future research directions. To date, however, there is little research conducted in understanding how such games could be classified in a systematic manner. Past classification schemes rely either on quality or entertainment aspects of these games. In order to have a deeper understanding of such games, this study argues that they should be classified via different dimensions. As a starting point, this paper reviews existing literature on HCGs and then develops a typology consisting of 12 dimensions and related strategies. This typology provides a holistic view of HCGs, and provides a common understanding of the domain among researchers and designers. The typology will help researchers to better understand the nature and consequences of HCGs, and designers better identify strengths and weaknesses of different strategies for each dimension, thus facilitating the creation of entertaining and effective HCGs.
+CY  - United States
+DA  - 2015/08/01/
+PY  - 2015
+DO  - 10.1080/0144929x.2013.862304
+VL  - 34
+IS  - 8
+SP  - 809
+EP  - 824
+PB  - Taylor & Francis
+KW  - SNOWBALLED
+ER  - 
+
+TY  - BOOK
+TI  - Basics of Game Design
+AU  - Moore, Michael
+CY  - Boca Raton, Florida, United States
+DA  - 2016/04/19/
+PY  - 2016
+DO  - 10.1201/b10817
+DP  - DOI.org (Crossref)
+ET  - 2
+LA  - en
+PB  - A K Peters/CRC Press
+SN  - 978-1-4398-6776-1
+UR  - https://www.taylorfrancis.com/books/9781439867761
+Y2  - 2024/09/26/00:58:28
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - BOOK
+TI  - Challenges for Game Designers
+AU  - Brathwaite, Brenda
+AU  - Schreiber, Ian
+AB  - Welcome to a book written to challenge you, improve your brainstorming abilities, and sharpen your game design skills! Challenges for Game Designers: Non-Digital Exercises for Video Game Designers is filled with enjoyable, interesting, and challenging exercises to help you become a better video game designer, whether you are a professional or aspire to be. Each chapter covers a different topic important to game designers, and was taken from actual industry experience. After a brief overview of the topic, there are five challenges that each take less than two hours and allow you to apply the material, explore the topic, and expand your knowledge in that area. Each chapter also includes 10 non-digital shorts to further hone your skills. None of the challenges in the book require any programming or a computer, but many of the topics feature challenges that can be made into fully functioning games. The book is useful for professional designers, aspiring designers, and instructors who teach game design courses, and the challenges are great for both practice and homework assignments. The book can be worked through chapter by chapter, or you can skip around and do only the challenges that interest you. As with anything else, making great games takes practice and Challenges for Game Designers provides you with a collection of fun, thoughtprovoking, and of course, challenging activities that will help you hone vital skills and become the best game designer you can be.
+CY  - Boston, Massachusetts, United States
+DA  - 2008/08/21/
+PY  - 2008
+PB  - Charles River Media
+SN  - 978-1-58450-580-8
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CONF
+TI  - What Is a Game Mechanic?
+AU  - Lo, Priscilla
+AU  - Thue, David
+AU  - Carstensdottir, Elin
+T2  - ICEC 2021
+A2  - Baalsrud Hauge, Jannicke
+A2  - Cardoso, Jorge C. S.
+A2  - Roque, Licínio
+A2  - Gonzalez-Calero, Pedro A.
+AB  - The term “game mechanic” is often used when discussing games, but are we all talking about the same thing? While game studies and related ﬁelds have produced several notable deﬁnitions, there is currently no accepted standard for the term within the broader community. Through a systematic literature review spanning six academic venues and several prominent books, we identify and analyze 49 explicit deﬁnitions for the concept of “game mechanics”. Though some of the deﬁnitions are similar, they are all fundamentally distinct. Our work demonstrates the importance of providing or citing a deﬁnition when discussing game mechanics, and we provide a wide range of options to choose from.
+C1  - Coimbra, Portugal
+C3  - Entertainment Computing – ICEC 2021
+DA  - 2021/11/02/
+PY  - 2021
+DO  - 10.1007/978-3-030-89394-1_25
+DP  - DOI.org (Crossref)
+VL  - 13056
+SP  - 336
+EP  - 347
+LA  - en
+PB  - Springer International Publishing
+SN  - 978-3-030-89393-4 978-3-030-89394-1
+UR  - https://link.springer.com/10.1007/978-3-030-89394-1_25
+Y2  - 2023/11/06/16:25:33
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - CONF
+TI  - An Ontological Meta-Model for Game Research
+AU  - Aarseth, Espen
+AU  - Grabarczyk, Paweł
+T2  - DiGRA 2018
+C1  - Turin, Italy
+C3  - Proceedings of the 2018 DiGRA International Conference: The Game is the Message
+DA  - 2018/07/25/
+PY  - 2018
+DO  - 10.26503/dl.v2018i1.973
+PB  - DiGRA
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - BOOK
+TI  - Chris Crawford on Game Design
+AU  - Crawford, Chris
+AB  - From the Publisher:
+Chris Crawford on Game Design is all about the foundational skills behind the design and architecture of a game. Without these skills, designers and developers lack the understanding to work with the tools and techniques used in the industry today. Chris Crawford, the most highly sought after expert in this area, brings an intense opinion piece full of personality and flare like no other person in this industry can. He explains the foundational and fundamental concepts needed to get the most out of game development today. An exceptional precursor to the two books soon to be published by New Riders with author Andrew Rollings, this book teaches key lessons; including, what you can learn from the history of game play and historical games, necessity of challenge in game play, applying dimensions of conflict, understanding low and high interactivity designs, watching for the inclusion of creativity, and understanding the importance of storytelling. In addition, Chris brings you the wish list of games he'd like to build and tells you how to do it. Game developers and designers will kill for this information!
+CY  - United States
+DA  - 2003/06//
+PY  - 2003
+PB  - New Riders Publishing
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - BOOK
+TI  - Game Design Workshop: A Playcentric Approach to Creating Innovative Games
+AU  - Fullerton, Tracy
+AB  - This book helps you to create the digital games you love to play, using a non-technical approach to game design without the need for programming or artistic experience. 
+Award-winning author Tracy Fullerton demystifies the creative process with clear and accessible guidance on the formal and dramatic systems of game design. Using examples of popular games, illustrations of design techniques, and refined exercises to strengthen your understanding of how game systems function, the book gives you the skills and tools necessary to create a compelling and engaging game.
+This fully updated 4th edition includes expanded coverage of new platforms and genres of play, including casual games and games for learning. It expands on agile development processes and includes a host of new perspectives from top industry game designers.
+Game Design Workshop puts you to work prototyping, playtesting, and revising your own games with time-tested methods and tools. These skills will provide the foundation for your career in any facet of the game industry including design, producing, programming, and visual design.
+CY  - Boca Raton, Florida, United States
+DA  - 2024/04/19/
+PY  - 2024
+DO  - 10.1201/b22309
+ET  - 5
+PB  - A K Peters/CRC Press
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CONF
+TI  - Integrated framework for game design
+AU  - Mora-Zamora, Rodolfo
+AU  - Brenes-Villalobos, Esteban
+T2  - CLIHC '19: IX Latin American Conference on Human Computer Interaction
+AB  - Since the mid-nineties there has been efforts to define a formal language for game design. The MDA Framework, published in 2004, quickly became the most used guideline, mostly in academic environments. It presents a definition for mechanic, but does not elaborate on the steps to design one. This work intends to complement the MDA along with other formal tools published since, to provide a game designer with a clear step-by-step guide on how to design a video game from scratch. Within this study two new tools are presented, the 5-Part Model for mechanic design, and the Risk/Reward Model for difficulty balance.
+C1  - Panama City, Panama
+C3  - Proceedings of the 9th Latin American Conference on Human Computer Interaction
+DA  - 2020/01/29/
+PY  - 2020
+DO  - 10.1145/3358961.3358984
+DP  - DOI.org (Crossref)
+IS  - 23
+SP  - 1
+EP  - 6
+LA  - en
+PB  - ACM
+SN  - 978-1-4503-7679-2
+UR  - https://dl.acm.org/doi/10.1145/3358961.3358984
+Y2  - 2022/07/19/17:43:15
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - JOUR
+TI  - Software architecture for digital game mechanics: A systematic literature review
+AU  - Mizutani, Wilson K.
+AU  - Daros, Vinícius K.
+AU  - Kon, Fabio
+T2  - Entertainment Computing Journal
+AB  - Game mechanics, the rules that simulate the virtual world inside a game, take a great part in what makes a game unique. For digital games, this uniqueness reduces the opportunity for software reuse. A high-level software architecture for game mechanics, however, can still be reused where a single, specific implementation cannot. Despite that potential, existing research on game development lacks a comprehensive analysis of how game mechanics could benefit from the field of software architecture. This limits the opportunities for developers and researchers alike to benefit from findings on the subject. To help guide future research on game development, we analyzed the state-of-the-art architectures in game mechanics through a systematic literature review. This work carefully documents data from 36 studies, analyzing the reflections and compromises between design re­ quirements, practices, and restrictions, as well as how they contribute to different types of mechanics. The main findings are that researchers favor reduced development complexity, but often tailor their solutions to specific games or genres. We conclude that a valuable avenue for future research in the field is the generalization of architectural solutions around specific types of mechanics and formalizing the use of software engineering for game mechanics.
+CY  - Amsterdam, Netherlands
+DA  - 2021/05//
+PY  - 2021
+DO  - 10.1016/j.entcom.2021.100421
+DP  - DOI.org (Crossref)
+VL  - 38
+SP  - 100421
+J2  - Entertainment Computing Journal
+LA  - en
+PB  - Elsevier
+SN  - 18759521
+ST  - Software architecture for digital game mechanics
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1875952121000185
+Y2  - 2022/07/23/02:40:52
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - BOOK
+TI  - Game Mechanics: Advanced Game Design
+AU  - Adams, Ernest
+AU  - Dormans, Joris
+CN  - QA76.76.C672 A324 2012
+CY  - Berkeley, California, United States
+DA  - 2012/06/15/
+PY  - 2012
+DP  - Library of Congress ISBN
+SP  - 353
+LA  - en
+PB  - New Riders Publishing
+SN  - 978-0-321-82027-3
+ST  - Game mechanics
+KW  - Design
+KW  - Programming
+KW  - Video games
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - JOUR
+TI  - 5PM and DoC - Formal Models for Game Design
+AU  - Mora-Zamora, Rodolfo
+AU  - Brenes-Villalobos, Esteban
+AU  - Durán, Francisco
+T2  - Centro Latinoamericano de Estudios en Informática Electronic Journal
+AB  - A formal language for game design is an endeavor many academics and industry personalities have been tackling since the mid-nineties. One of the most renowned formal models for game design, the MDA Framework, includes steps to delimit and conceptualize the experience with a top-down approach. There is, however, a significant lack of high detail models for mechanic construction as well as difficulty balancing. 
+In this paper we propose two formal models for novice designers. The 5-Part-Model (5PM) for building and diagnosing game mechanics, and the Dimensions of Challenge (DoC) formal model for balancing and fine-tuning difficulty in games.
+DA  - 2020/09/22/
+PY  - 2020
+DO  - 10.19153/cleiej.23.2.1
+DP  - DOI.org (Crossref)
+VL  - 23
+IS  - 2
+SP  - 1
+EP  - 13
+J2  - CLEIej
+PB  - Centro Latinoamericano de Estudios en Informática (CLEI)
+SN  - 0717-5000
+UR  - http://www.clei.org/cleiej/index.php/cleiej/article/view/473
+Y2  - 2024/09/26/00:56:14
+L1  - https://www.clei.org/cleiej/index.php/cleiej/article/download/473/378
+KW  - Raíz
+ER  - 
+
+TY  - CONF
+TI  - Game Design Prototyping Workshop: Brainstorming and Designing Collaborative and Creative Game Prototypes with Immersive Surfaces
+AU  - Champion, Erik
+AU  - McCallum, Simon
+T2  - ISS '22: Conference on Interactive Surfaces and Spaces
+C1  - Wellington, New Zealand
+C3  - Companion Proceedings of the 2022 Conference on Interactive Surfaces and Spaces
+DA  - 2022/11/20/
+PY  - 2022
+DO  - 10.1145/3532104.3571472
+DP  - DOI.org (Crossref)
+SP  - 72
+EP  - 75
+LA  - en
+PB  - ACM
+SN  - 978-1-4503-9356-0
+ST  - Game Design Prototyping Workshop
+UR  - https://dl.acm.org/doi/10.1145/3532104.3571472
+Y2  - 2024/09/26/00:56:54
+KW  - Raíz
+ER  - 
+
+TY  - JOUR
+TI  - Rapid game jams with fluidic games: A user study & design methodology
+AU  - Gaudl, Swen E.
+AU  - Nelson, Mark J.
+AU  - Colton, Simon
+AU  - Saunders, Rob
+AU  - Powley, Edward J.
+AU  - Pérez Ferrer, Blanca
+AU  - Ivey, Peter
+AU  - Cook, Michael
+T2  - Entertainment Computing Journal
+CY  - Amsterdam, Netherlands
+DA  - 2018/08/15/
+PY  - 2018
+DO  - 10.1016/j.entcom.2018.02.007
+DP  - DOI.org (Crossref)
+VL  - 27
+SP  - 1
+EP  - 9
+J2  - Entertainment Computing
+LA  - en
+PB  - Elsevier
+SN  - 18759521
+ST  - Rapid game jams with fluidic games
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1875952117301155
+Y2  - 2024/09/26/00:57:23
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - CONF
+TI  - A framework for exploring and evaluating mechanics in human computation games
+AU  - Siu, Kristin
+AU  - Zook, Alexander
+AU  - Riedl, Mark O.
+T2  - FDG'17: International Conference on the Foundations of Digital Games 2017
+C1  - Hyannis, Massachusetts, United States
+C3  - Proceedings of the 12th International Conference on the Foundations of Digital Games
+DA  - 2017/08/14/
+PY  - 2017
+DO  - 10.1145/3102071.3106344
+DP  - DOI.org (Crossref)
+SP  - 1
+EP  - 4
+LA  - en
+PB  - ACM
+SN  - 978-1-4503-5319-9
+UR  - https://dl.acm.org/doi/10.1145/3102071.3106344
+Y2  - 2024/09/26/00:58:15
+L1  - https://arxiv.org/pdf/1706.03311
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - CONF
+TI  - Design and Evaluation of Parametrizable Multi-genre Game Mechanics
+AU  - Apken, Daniel
+AU  - Landwehr, Hendrik
+AU  - Herrlich, Marc
+AU  - Krause, Markus
+AU  - Paul, Dennis
+AU  - Malaka, Rainer
+T2  - International Conference on Entertainment Computing 2012
+A2  - Herrlich, Marc
+A2  - Malaka, Rainer
+A2  - Masuch, Maic
+C1  - Berlin ó Heidelberg
+C3  - Entertainment Computing - ICEC 2012
+DA  - 2012/09//
+PY  - 2012
+DO  - 10.1007/978-3-642-33542-6_4
+DP  - DOI.org (Crossref)
+VL  - 7522
+SP  - 45
+EP  - 52
+PB  - Springer Berlin Heidelberg
+SN  - 978-3-642-33541-9 978-3-642-33542-6
+UR  - http://link.springer.com/10.1007/978-3-642-33542-6_4
+Y2  - 2024/09/26/00:58:31
+L1  - https://link.springer.com/content/pdf/10.1007%2F978-3-642-33542-6_4.pdf
+KW  - Raíz
+ER  - 
+
+TY  - CONF
+TI  - Game Mechanic Alignment Theory
+AU  - Green, Michael Cerny
+AU  - Khalifa, Ahmed
+AU  - Canaan, Rodrigo
+AU  - Bontrager, Philip
+AU  - Togelius, Julian
+T2  - FDG'21: The 16th International Conference on the Foundations of Digital Games 2021
+C1  - Montreal, Quebec, Canada
+C3  - Proceedings of the 16th International Conference on the Foundations of Digital Games (FDG) 2021
+DA  - 2021/10/21/
+PY  - 2021
+DO  - 10.1145/3472538.3472571
+DP  - DOI.org (Crossref)
+SP  - 1
+EP  - 11
+LA  - en
+PB  - ACM
+SN  - 978-1-4503-8422-3
+UR  - https://dl.acm.org/doi/10.1145/3472538.3472571
+Y2  - 2024/09/26/00:58:35
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - JOUR
+TI  - Gameplay Bricks Model, a Theoretical Framework to Match Game Mechanics and Cognitive Functions
+AU  - Ben-Sadoun, Grégory
+AU  - Alvarez, Julian
+T2  - Games and Culture
+AB  - This article investigated whether it is possible to establish correspondences between game mechanics and particular cognitive stimulations. There are many challenges to prevent and treat cognitive decline with aging or neurocognitive disease. Observing difficulties to establish such correspondences in the scientific literature, we proposed to move away from “classification by genre” or any other type of taxonomy that deviates from the framework of the “Rules/Formal schemas” and the “set of rules” component of the gameplay. Thus, we proposed the Gameplay Bricks model as a theoretical framework for Video Game (VG) and Serious Games (SG). We jointly relied on a framework on fractionated executive functions, memory, and attention. The Gameplay Bricks model currently identifies 14 major Metabricks (game mechanics) through seven Metabricks of obligations and seven of prohibitions. We have proposed first correspondences accompanied by examples from the VG-SGs. The limits and perspectives of these first matches were then discussed.
+DA  - 2022/05/16/
+PY  - 2022
+DO  - 10.1177/15554120221080925
+DP  - DOI.org (Crossref)
+VL  - 18
+IS  - 1
+SP  - 79
+EP  - 101
+J2  - Games and Culture
+LA  - en
+PB  - SAGE Publications
+SN  - 1555-4120, 1555-4139
+UR  - http://journals.sagepub.com/doi/10.1177/15554120221080925
+Y2  - 2024/09/26/00:58:37
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - CONF
+TI  - Towards an Agency-centered Ontology of Game Mechanics
+AU  - Mitchell, Kyle
+AU  - Mccoy, Joshua
+T2  - FDG 2023: Foundations of Digital Games 2023
+C1  - Lisbon, Portugal
+C3  - Proceedings of the 18th International Conference on the Foundations of Digital Games
+DA  - 2023/04/12/
+PY  - 2023
+DO  - 10.1145/3582437.3587201
+DP  - DOI.org (Crossref)
+SP  - 1
+EP  - 4
+LA  - en
+PB  - ACM
+SN  - 978-1-4503-9855-8
+UR  - https://dl.acm.org/doi/10.1145/3582437.3587201
+Y2  - 2024/09/26/00:58:46
+L1  - https://dl.acm.org/doi/pdf/10.1145/3582437.3587201
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - BOOK
+TI  - Exploring Game Mechanics: Principles and Techniques to Make Fun, Engaging Games
+AU  - Dhule, Maithili
+CY  - Berkeley, California, United States
+DA  - 2022/12/23/
+PY  - 2022
+DO  - 10.1007/978-1-4842-8873-3
+DP  - DOI.org (Crossref)
+LA  - en
+PB  - Apress
+SN  - 978-1-4842-8872-6 978-1-4842-8873-3
+ST  - Exploring Game Mechanics
+UR  - https://link.springer.com/10.1007/978-1-4842-8873-3
+Y2  - 2024/10/03/17:00:45
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - JOUR
+TI  - Rules, gameplay, and narratives in video games
+AU  - Ang, Chee Siang
+T2  - Simulation & Gaming
+AB  - An explanatorystudy is conductedto examine the different kinds of rules in video games. Two layers of game, the abstract and the narrative layer, are explored to unify the study of gameplay and narratives. Derivatives of paidea rules and ludus rules are analyzed in relation to gameplay and narratives. A model is presented to show the relation between rules, gameplay, and narratives. Video games are seen as having two layers, an abstract layer and a narrative layer, which are linked by game rules. It is hence maintained that gameplay and narratives should not be antagonistic; they should be complementary when studying video games.
+CY  - Thousand Oaks, California, United States
+DA  - 2006/09/01/
+PY  - 2006
+DO  - 10.1177/1046878105285604
+DP  - DOI.org (Crossref)
+VL  - 37
+IS  - 3
+SP  - 306
+EP  - 325
+J2  - Simulation & Gaming
+LA  - en
+PB  - SAGE Publications
+SN  - 1046-8781, 1552-826X
+UR  - https://journals.sagepub.com/doi/10.1177/1046878105285604
+Y2  - 2024/10/03/17:00:56
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - JOUR
+TI  - Towards a system of customized video game mechanics based on player personality: Relating the Big Five personality traits with difficulty adaptation in a first-person shooter game
+AU  - Nagle, Aniket
+AU  - Wolf, Peter
+AU  - Riener, Robert
+T2  - Entertainment Computing Journal
+AB  - While personality is known to moderate the kind of video games people like to play, the link between personality and game mechanics has not been explored. Finding such a link can enable customizing game mechanics based on personality, potentially making games more enjoyable and suited to a wide range of players. The present work investigated the relationship between the Big Five personality traits and four different implementations of difﬁculty adaptation, a popular game mechanic, in a ﬁrst-person shooter game. In Study 1, a linear regression model was derived to relate the ﬁve personality traits with enjoyment (ENJ) and gameplay duration (DUR) in the four difﬁculty adaptations. In Study 2, this regression model was used to construct a predictor that chose a difﬁculty adaptation which maximized ENJ and DUR based on player personality. The predictor was tested against dynamic difﬁculty adjustment (DDA), which matched difﬁculty to user performance. ENJ and DUR were signiﬁcantly higher in the prediction group than the DDA group. The present work highlights the importance of difﬁculty adaptation as a game mechanic, and suggests that personality could also be related to other game mechanics. Accordingly, a framework for personality-based game mechanics customization is proposed to foster future research.
+DA  - 2016/03/15/
+PY  - 2016
+DO  - 10.1016/j.entcom.2016.01.002
+DP  - DOI.org (Crossref)
+VL  - 13
+SP  - 10
+EP  - 24
+J2  - Entertainment Computing
+LA  - en
+PB  - Elsevier
+SN  - 18759521
+ST  - Towards a system of customized video game mechanics based on player personality
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1875952116000045
+Y2  - 2024/10/03/17:01:02
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - CONF
+TI  - Using semiotic grammars for the rapid design of evolving video game mechanics
+AU  - Vick, Erik Henry
+AU  - McDaniel, Rudy
+AU  - Jacobs, Stephen
+T2  - SIGGRAPH '10: Special Interest Group on Computer Graphics and Interactive Techniques Conference
+AB  - In prior work, we proposed the model of cardboard semiotics. The model applies the use of semiotics (the study of signs and symbols and their interpretations) as a conceptual prototyping tool for game story development. In this paper we adapt the theoretical principle of cardboard semiotics towards an engineered formalism for the design of game mechanics. We first provide a brief introduction to video game literacy, a key method of semiotic analysis, and examples of the new approach by looking at its application in the design of Real-Time Strategy (RTS) and FirstPerson Shooter (FPS) games. We then use generalized semiotic grammars, or methods for composing symbolic sentences, to expose the underlying frameworks of popular commercial games to show how games can be re-imagined in other contexts through the semiotic technique of structural analysis.
+C1  - Los Angeles, California, United States
+C3  - Proceedings of the 5th ACM SIGGRAPH Symposium on Video Games
+DA  - 2010/07/28/
+PY  - 2010
+DO  - 10.1145/1836135.1836139
+DP  - DOI.org (Crossref)
+SP  - 25
+EP  - 30
+LA  - en
+PB  - ACM
+SN  - 978-1-4503-0097-1
+UR  - https://dl.acm.org/doi/10.1145/1836135.1836139
+Y2  - 2024/10/03/17:01:05
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - CONF
+TI  - Ad hoc genre switching: a concept for generalized parametrizable game mechanics
+AU  - Apken, Daniel
+AU  - Herrlich, Marc
+AU  - Malaka, Rainer
+T2  - CHI PLAY '14: The annual symposium on Computer-Human Interaction in Play
+AB  - Game designers have to satisfy the needs of different player types. This paper presents a generalizable concept for switching between different play styles or genres without changing the basic game elements. As an example we employ speciﬁc combinations of parametrized game elements to emulate well-known genres: platformer, shooter, and puzzle games that can be switched at run-time by the player. We discuss ﬁrst insights gained through a preliminary study.
+C1  - Toronto, Ontario, Canada
+C3  - Proceedings of the first ACM SIGCHI annual symposium on Computer-human interaction in play
+DA  - 2014/10/19/
+PY  - 2014
+DO  - 10.1145/2658537.2661324
+DP  - DOI.org (Crossref)
+SP  - 401
+EP  - 402
+LA  - en
+PB  - ACM
+SN  - 978-1-4503-3014-5
+ST  - Ad hoc genre switching
+UR  - https://dl.acm.org/doi/10.1145/2658537.2661324
+Y2  - 2024/10/03/17:01:08
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - JOUR
+TI  - Design for Research Results: Experimental Prototyping and Play Testing
+AU  - Eladhari, Mirjam P.
+AU  - Ollila, Elina M. I.
+T2  - Simulation & Gaming
+AB  - In this article, the authors examine iterative design methods for experimental game prototype development. They recognize the area of game design as a wicked problem space, that is, an area where attempts at producing solutions change the understanding of the problems.They argue that it is vital in game-design research to build and test designs in order to explore how certain game mechanics can result in different play dynamics and play experiences. Depending on the scope of research questions and available resources, it is important to carefully plan the design process of prototypes, their development, and the testing of them. It is also important to consider what types of data to obtain, and how to treat the data, in order to acquire materials for analysis that can support the exploration of the research questions of a study.The purpose of this article is to provide a navigation aid through this process. Various methods of prototyping and types of prototypes are described, along with considerations regarding the type of game that is developed. Then, various types of play tests are presented along with recommendations, depending on timing within the production cycle and availability of test-players. Also, an overview of potential methods of obtaining data from play tests is provided.
+DA  - 2012/04//
+PY  - 2012
+DO  - 10.1177/1046878111434255
+DP  - DOI.org (Crossref)
+VL  - 43
+IS  - 3
+SP  - 391
+EP  - 412
+J2  - Simulation & Gaming
+LA  - en
+PB  - SAGE Publications
+SN  - 1046-8781, 1552-826X
+ST  - Design for Research Results
+UR  - https://journals.sagepub.com/doi/10.1177/1046878111434255
+Y2  - 2024/10/03/17:01:16
+KW  - Leído
+KW  - Raíz
+ER  - 
+
+TY  - BOOK
+TI  - The Art of Game Design: A Book of Lenses
+AU  - Schell, Jesse
+AB  - Anyone can master the fundamentals of game design - no technological expertise is necessary. "The Art of Game Design: A Book of Lenses" shows that the same basic principles of psychology that work for board games, card games and athletic games also are the keys to making top-quality videogames. Good game design happens when you view your game from many different perspectives, or lenses. While touring through the unusual territory that is game design, this book gives the reader one hundred of these lenses - one hundred sets of insightful questions to ask yourself that will help make your game better. These lenses are gathered from fields as diverse as psychology, architecture, music, visual design, film, software engineering, theme park design, mathematics, writing, puzzle design, and anthropology. Anyone who reads this book will be inspired to become a better game designer - and will understand how to do it.
+CY  - Boca Raton, Florida, United States
+DA  - 2008/08/04/
+PY  - 2008
+DO  - 10.1201/9780080919171
+PB  - CRC Press
+SN  - 978-0-12-369496-6
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - THES
+TI  - Games without Frontiers: Theories and Methods for Game Studies and Design
+AU  - Järvinen, Aki
+AB  - Games without Frontiers is a cornerstone in
+multi-disciplinary game studies, drawing from study
+of art, psychology, systems theory, aesthetics, and
+communication studies. The author introduces a set of
+concepts, categorizations, and analysis methods for
+study and design of games. The book also offers a
+comprehensive perspective to psychological nature of
+play with discussions on goals, human abilities, and
+emotions. Games without Frontiers covers games of all
+kinds: it is based on an empirical sample of over 100
+games, which includes computer and video games, board
+games, card games, and television game shows.
+Games without Frontiers is essential reading for
+game scholars, teachers, and students interested in
+analyzing games from psychological, aesthetic, and
+design perspectives.
+-- "Remarkable and ambitious piece of work.” -
+Professor James Paul Gee, University of Wisconsin,
+Author of What Video Games Have to Teach Us About
+Learning and Literacy --
+"Hugely ambitious work, which puts a stake in
+the ground for game studies." - Jesper Juul, Ph.D.,
+Singapore-MIT Gambit Game Lab, Author of Half-Real:
+Video Games between Real Rules and Fictional Worlds.
+CY  - Tampere, Finland
+DA  - 2007///
+PY  - 2007
+M3  - PhD Dissertation
+PB  - University of Tampere
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - BOOK
+TI  - Game Design: From Blue Sky to Green Light
+AU  - Todd, Deborah
+CY  - Boca Raton, Florida, United States
+DA  - 2007/02/23/
+PY  - 2007
+DO  - doi.org/10.1201/b15736
+SP  - 304
+PB  - A K Peters/CRC Press
+SN  - 978-1-56881-412-4
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - BOOK
+TI  - Half-Real: Video Games between Real Rules and Fictional Worlds
+AU  - Juul, Jesper
+AB  - A video game is half-real: we play by real rules while imagining a fictional world. We win or lose the game in the real world, but we slay a dragon (for example) only in the world of the game. In this thought-provoking study, Jesper Juul examines the constantly evolving tension between rules and fiction in video games. Discussing games from Pong to The Legend of Zelda, from chess to Grand Theft Auto, he shows how video games are both a departure from and a development of traditional non-electronic games. The book combines perspectives from such fields as literary and film theory, computer science, psychology, economic game theory, and game studies, to outline a theory of what video games are, how they work with the player, how they have developed historically, and why they are fun to play. Locating video games in a history of games that goes back to Ancient Egypt, Juul argues that there is a basic affinity between games and computers. Just as the printing press and the cinema have promoted and enabled new kinds of storytelling, computers work as enablers of games, letting us play old games in new ways and allowing for new kinds of games that would not have been possible before computers. Juul presents a classic game model, which describes the traditional construction of games and points to possible future developments. He examines how rules provide challenges, learning, and enjoyment for players, and how a game cues the player into imagining its fictional world. Juul's lively style and eclectic deployment of sources will make Half-Real of interest to media, literature, and game scholars as well as to game professionals and gamers.
+CY  - Cambridge, Massachusetts, United States
+DA  - 2005/11/04/
+PY  - 2005
+PB  - MIT Press
+SN  - 978-0-262-10110-3
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CONF
+TI  - Game Conceptualization and Development Processes in the Global Game Jam
+AU  - Zook, Alexander
+AU  - Riedl, Mark O.
+T2  - Foundations of Digital Games 2013
+AB  - The Global Game Jam provides a unique opportunity to study time-constrained game development at a massive scale. We administered a free-response survey to 2013 Global Game Jam participants about their game development process. Categorized responses show: (a) participants use diverse inspirations; (b) set goals for their personal benefit, the impact on game players, and structure of the game system; (c) rarely employ traditional prototyping; and (d) evolve their games by scoping down many ideas, grounding a vague idea through implementation, and iteratively expanding a simple core game. We discuss next steps to gain more in-depth information about design processes.
+C1  - Chania, Crete, Greece
+C3  - Proceedings of the Foundations of Digital Games Conference 2013
+DA  - 2013///
+PY  - 2013
+PB  - Society for the Advancement of the Science of Digital Games (SASDG)
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - BOOK
+TI  - The Game Jam Survival Guide
+AU  - Kaitila, Christer
+AB  - Build a game in one crazy weekend and survive to tell the tale! Enthusiastic and light-hearted, glimpse the excitement and frantic creativity of game jams. Motivating, encouraging and infectious, it is sure to help you reach the finish line. Follow this handbook from brainstorming an idea, over bitter obstacles and on to the sweet finish line: a complete, playable, fun game. Each stage of game jams is described with task lists and anecdotes relating common experiences, the trials and the tribulations of past game jam champions and losers. Packed with interviews, tips, tricks and wise words from Ludum Dare and Global Game Jam organisers among other well-known game jammers. In Detail Game jams are fun. They are a creative, exciting, social experience. The goal of a game jam is to design a video game, either alone or in teams, as fast as is humanly possible; usually in a single weekend. The Game Jam Survival Guide, written to help you have more fun and achieve greater results at your next game jam by building a successful game without burning out, leads readers through each 12-hour phase of a 48-hour weekend game jam. Weekend warriors: dominate your next game jam! If you follow the system shared in this book, you will be able to build an amazing game that you're proud of and will entertain players, all in just one crazy 48-hour game jam weekend and survive to tell the tale!. Embrace the best practices and techniques of past game jam winners and avoid common pitfalls along the way to the finish line. You too can survive a 48-hour game development marathon with your mind intact and an amazing game to show off to friends and family! With The Game Jam Survival Guide you will learn the secret techniques that master game jammers use to create winning entries. It starts by showing you great ways to brainstorm and design a game based on a theme. It then moves on to highlight the best tools and techniques to finish a game in a weekend of coding. Anecdotes and advice from past winners and losers combined with humorous words of encouragement are sure to help you on your way. The author presents a list of game jams around the world, online communities worth checking out, fantastic game engines, and art resources. Finally, learn how to monetize your game by gaining sponsorship from big gaming websites. It's the fun way to make your own video game in one weekend! What you will learn from this book Preparing for the jam: conquer the theme, pick design aids, prototype quickly, choose the right tools for the job, and cut the right corners. Bombastic brainstorming: power up your idea generator and run with a theme, gain more votes and please the masses. Building a game jam entry: pick your weapons, follow your plan, cut the bells-n-whistles, scramble over "the wall", submit a game on time, and with a little luck, attain fame and fortune. Why Mike "PoV" Kasprzak (Ludum Dare administrator) thinks game jams are a good introduction to the realities of the game industry. The reasons why Dr. Mike Reddy (organizer of the Global Game Jam) thinks designing on paper is essential. The best ways to find creative inspiration and develop an idea to fit a theme according to Eric McQuiggan (founding member of The Dirty Rectangles) and Chevy Ray Johnston (author of the FlashPunk engine). What Foaad Khosmood (director of the Global Game Jam) suggests you do to ensure you finish before the deadline. The worst way to prepare according to Pekka "pekuja" Kujansuu and the best way according to Phil Hassey (Ludum Dare administrators) What one piece of advice Jason P. Kaplan (founder of the Game Prototype Challenge) would give to newcomers. Approach The Game Jam Survival Guide is an insider view of game jams packed full of expert advice; leading with tips and tricks on how to build a great game with just 48 hours; but clearly defining what should be avoided at all costs during Game Jam mayhem. The reader is led through each half-day phase; from the beginning of your quest in hours 1-12 to breaking through "the wall" on day two and finally reaching the finishing line in hours 37-48. Who this book is written for Although the book is intended for beginners and experts alike, the reader will already know how to program (in any language). He or she will love games and want to learn how to best make their own game in a wild and crazy 48-hour period.
+CY  - Birmingham, United Kingdom
+DA  - 2012/04/02/
+PY  - 2012
+PB  - Packt Publishing
+KW  - Leído
+KW  - SNOWBALLED
+ER  - 
+
+TY  - CONF
+TI  - Are the old days gone?: a survey on actual software engineering processes in video game industry
+AU  - Politowski, Cristiano
+AU  - Fontoura, Lisandra Manzoni
+AU  - Petrillo, Fabio
+AU  - Guéhéneuc, Yann-Gaël
+T2  - 2016 IEEE/ACM 5th International Workshop on Games and Software Engineering
+AB  - In the past 10 years, several researches studied video game development process who proposed approaches to improve the way how games are developed. These approaches usually adopt agile methodologies because of claims that traditional practices and the waterfall process are gone. However, are the "old days" really gone in the game industry?   In this paper, we present a survey of software engineering processes in video game industry from postmortem project analyses. We analyzed 20 postmortems from Gamasutra Portal. We extracted their processes and modelled them through using the Business Process Model and Notation (BPMN).   This work presents three main contributions. First, a postmortem analysis methodology to identify and extract project processes. Second, the study main result: the "old days" are gone, but not completely. Iterative practices are increasing and are applied to at least 65% of projects in which 45% of this projects explicitly adopted Agile practices. However, waterfall process is still applied at least 30% of projects. Finally, we discuss some implications, directions and opportunities for video game development community.
+C1  - Austin, Texas, USA
+C3  - Proceedings of the 5th International Workshop on Games and Software Engineering
+DA  - 2016/05/14/
+PY  - 2016
+DO  - 10.1145/2896958.2896960
+SP  - 22
+EP  - 28
+PB  - ACM
+ER  - 
+
+TY  - COMP
+TI  - game-mechanics-systematic-review
+AU  - Blanco, Sebastián
+UR  - https://github.com/sebasgb/game-mechanics-systematic-review
+Y2  - 2026/10/27/
+ER  - 
+
